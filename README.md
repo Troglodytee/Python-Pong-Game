@@ -11,8 +11,8 @@ This is a 2 players Pong game.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python pygame library
-- Python random library
+- Python `pygame` library
+- Python `random` library
 ## Game Captures
 ![Game capture 1](./preview/images/1.jpg)
 
